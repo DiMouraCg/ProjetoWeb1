@@ -1,0 +1,15 @@
+.icone-acao{
+    margin-left: 20px;
+}
+
+.btn-delete{
+    color: red;
+}
+
+.btn-editar{
+    color: coral;
+}
+
+.coluna-acao{
+    width: 100px;
+}
